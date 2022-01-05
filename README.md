@@ -4,7 +4,7 @@
 
 ## Support or Contact
 
-Email : muzammil_75@outlook.com
+Email : muzammyl@outlook.com
 
 Discord : muzammyl#8736
 

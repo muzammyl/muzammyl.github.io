@@ -15,9 +15,9 @@ This is Muhammad Muzammyl, intermediate Student Developer. Cross platform Deskto
 
 - Ask something, I'm here to help : <a href="mailto:muzammyl@outlook.com" subject="Email">Need Help?</a>
 
-<a href="https://discordapp.com/users/792417317342150676"><img align="center" height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/discord.svg" alt="Muzammyl's discord"></a>
-<a href="https://twitter.com/muzammyl_"><img align="center" height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="Muzammyl's twitter"></a>
-<a href="https://github.com/muzammyl"><img align="center" height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/github.svg" alt="Muzammyl's github"></a>
-<a href="https://www.facebook.com/muzammyl75"><img align="center" height="30" src="https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg" alt="Muzammyl's facebook"></a>
+<a href="https://discordapp.com/users/792417317342150676"><img align="center" height="25" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/discord.svg" alt="Muzammyl's discord"></a>
+<a href="https://twitter.com/muzammyl_"><img align="center" height="25" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/twitter.svg" alt="Muzammyl's twitter"></a>
+<a href="https://github.com/muzammyl"><img align="center" height="25" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/github.svg" alt="Muzammyl's github"></a>
+<a href="https://www.facebook.com/muzammyl75"><img align="center" height="25" src="https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg" alt="Muzammyl's facebook"></a>
 
 <a href="https://www.gnu.org/licenses/gpl-3.0.en.html" title="License"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/GPLv3_Logo.svg" align="right" height="48" width=""/></a>

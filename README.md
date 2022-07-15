@@ -13,7 +13,7 @@ This is Muhammad Muzammyl, intermediate Student Developer. Cross platform Deskto
 
 ## Support or Contact
 
-- Ask something, I'm here to help : <a href=mailto:muzammyl@outlook.com subject="Email">Need Help?</a>
+- Ask something, I'm here to help : <a href="mailto:muzammyl@outlook.com" subject="Email">Need Help?</a>
 
 <a href="https://discordapp.com/users/792417317342150676"><img align="center" height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/discord.svg" alt="Muzammyl's discord"></a>
 <a href="https://twitter.com/muzammyl_"><img align="center" height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/twitter.svg" alt="Muzammyl's twitter"></a>
